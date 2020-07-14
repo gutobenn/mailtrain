@@ -2,7 +2,7 @@
 title="mailtrain"
 
 # Default language to use
-language="en"
+language="pt_BR"
 
 [log]
 # silly|verbose|info|http|warn|error|silent

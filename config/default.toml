@@ -30,7 +30,7 @@ editors=[
 ]
 
 # Default language to use
-language="en"
+language="pt_BR"
 
 # Inject custom styles in layout.hbs
 # customstyles=["/custom/hello-world.css"]
